@@ -7,6 +7,9 @@ https://gateway.keledge.com/transfer
 https://yd.51zhy.cn/ 
 
 #url
+https://lib-cdutcm.wqxuetang.com/
+
+#url
 https://lib-imu.wqxuetang.com/#/
 
 #url
