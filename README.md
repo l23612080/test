@@ -27,5 +27,14 @@ https://aaaa.com/
 #url
 https://1234567890.com/
 
+a.cn
+
+b.cn
+
+aa.cn
+
+ab.cn
+
+
 #url
 https://lib-whpu.wqxuetang.com/
