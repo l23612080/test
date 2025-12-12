@@ -27,13 +27,13 @@ https://aaaa.com/
 #url
 https://1234567890.com/
 #url
-a.cn
+https://a.cn
 #url
-b.cn
+https://b.cn
 #url
-aa.cn
+https://aa.cn
 #url
-ab.cn
+https://ab.cn
 
 
 #url
